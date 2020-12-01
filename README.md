@@ -7,7 +7,7 @@ npm install
 
 ### Compiles and hot-reloads for development
 ```
-npm run start or npm run serve
+npm run start 或者 npm run serve
 ```
 
 ### Compiles and minifies for production
